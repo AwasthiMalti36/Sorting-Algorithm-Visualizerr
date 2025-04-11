@@ -14,11 +14,7 @@ The **Sorting Algorithm Visualizer** is an interactive web application that allo
   - **Red** - Swap operation
   - **Blue** - Comparison operation
   - **Green** - Element is in its sorted position
-- **Supports Multiple Algorithms**: Visualize the execution of common sorting algorithms.
-- > [Bubble Sort](https://github.com/user-attachments/assets/511fd013-b201-406d-8ab0-3695e5f6ff3c)
-> [Selection Sort](https://github.com/user-attachments/assets/cffa3386-823d-4e09-8105-665215b2665c)
-> [Merge Sort](https://github.com/user-attachments/assets/6e24f203-8457-42f7-b015-17156b33ec93)
-> [Quick Sort](https://github.com/user-attachments/assets/8a7a8084-212d-4d41-bfc4-142dad33c480)
+
 
 ### Sorting Algorithms Implemented:
 - **Bubble Sort**: Repeatedly steps through the list to compare adjacent elements and swap them if they're in the wrong order.
@@ -71,7 +67,6 @@ Feel free to contribute to the project! Here’s how:
 
 ## References
 
-Inspiration taken from [Coding Train](https://www.youtube.com/watch?v=67k3I2GxTH8).
 
 Additional links to understand the algorithms used in this project:
 - [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
